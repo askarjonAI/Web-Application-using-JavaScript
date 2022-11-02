@@ -1,7 +1,7 @@
 # Web-Application-using-JavaScript
 Web Application for Local Tourism
 
-# Tousrism Website
+# Tousrism Website Demo Version
 
 The website is about tourism in the local area of Uzbekistan. It includes some special information on the touristic places and cities of the country.
 
